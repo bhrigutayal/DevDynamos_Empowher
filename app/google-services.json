@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "363239062777",
+    "project_id": "Safher-08",
+    "storage_bucket": "Safher-08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363239062777:android:c1ce9acb52824dad403628",
+        "android_client_info": {
+          "package_name": "com.android.Safher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKEolPrrdlKsYWIf-4sciBCDA91DVEw_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
