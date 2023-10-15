@@ -12,3 +12,4 @@ The contact tab is also there where user can ad their trusted emergency contacts
 Another tab that we have integrated is that of safety tips, this tab has a multitude of travel advisory that users, who are ideally women, should follow while traveling around, especially in areas unknown to them.
 A settings tab is provided with various options like send sms, send notifications, play siren, call emergency services and shake detection which one can enable/disable as per their own personal volition.
 There is an about tab provided that holds some information related to our app, its design etc.
+
