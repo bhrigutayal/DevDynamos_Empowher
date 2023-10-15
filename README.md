@@ -1,4 +1,5 @@
 # DevDynamos_Empowher
+To use this repository personally just clone the repository and bulid the main_activity.java in android studio.
 Women safety is a serious issue in our society and glaring negligence is their in our day to day lives towards ensuring that women feel safe especially while traveling, more so in areas that are new for them.
 Knowing which routes are more crime-prone and having a map tell them a safe route would be quite helpful and prevent mishappenings from happening, also options to send SOS signals also helps if an unavoidable situation arises regardless. 
 The app that we have created is focused on providing a safety application for women. It starts with a sign-in screen where one can sign-in or create their account if not already existing.
