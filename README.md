@@ -5,6 +5,19 @@
 ## Introduction
 Women safety is a critical concern in our society, with negligence often prevalent in ensuring women feel secure, particularly while traveling. To address this issue, we have developed a mobile application focused on providing safety features for women. Our app integrates various functionalities aimed at enhancing women's safety and providing assistance during emergencies.
 
+## Screenshots
+
+![WhatsApp Image 2023-10-15 at 11 16 02](https://github.com/bhrigutayal/DevDynamos_Empowher/assets/118829367/0eb2854e-2c46-4f2e-9932-0fc4bbdba90f)
+![WhatsApp Image 2023-10-15 at 11 16 02 (1)](https://github.com/bhrigutayal/DevDynamos_Empowher/assets/118829367/49b2dfc3-5983-4350-8fe5-3a5222a801d5)
+![WhatsApp Image 2023-10-15 at 11 16 02 (2)](https://github.com/bhrigutayal/DevDynamos_Empowher/assets/118829367/0f351407-7674-4798-9ea9-875952c05295)
+![WhatsApp Image 2023-10-15 at 11 16 03](https://github.com/bhrigutayal/DevDynamos_Empowher/assets/118829367/3be0bed1-f929-4352-8dfb-55673d384573)
+![WhatsApp Image 2023-10-15 at 11 16 03 (1)](https://github.com/bhrigutayal/DevDynamos_Empowher/assets/118829367/cd59da7b-a994-47f8-b500-2c3fc61f6c66)
+![WhatsApp Image 2023-10-15 at 11 16 04](https://github.com/bhrigutayal/DevDynamos_Empowher/assets/118829367/25a568e6-67c3-4469-a8f5-9bf6f439bf6f)
+![WhatsApp Image 2023-10-15 at 11 16 00](https://github.com/bhrigutayal/DevDynamos_Empowher/assets/118829367/166dfc63-343e-4beb-85e2-39d28629aa94)
+![WhatsApp Image 2023-10-15 at 11 16 01](https://github.com/bhrigutayal/DevDynamos_Empowher/assets/118829367/aa5bae47-4d00-4634-b647-f9174cf6ea1f)
+![WhatsApp Image 2023-10-15 at 11 16 01 (1)](https://github.com/bhrigutayal/DevDynamos_Empowher/assets/118829367/05c31847-49fd-4612-92b7-47fb7154b295)
+
+
 ## Features
 
 ### 1. Sign-In and Account Creation
@@ -51,4 +64,6 @@ Contributions to the project are welcome. Please fork the repository, make your 
 
 ## Support
 For any inquiries or assistance, please contact bhrigutayal053@gmail.com or kartishsbhadauria@gmail.com .
+
+
 
